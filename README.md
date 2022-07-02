@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Myceliex
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning how to use GitHub
